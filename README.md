@@ -45,13 +45,13 @@
             color: #f7c251a1;
         }
         img {
-            max-width: 600px; /* Tamaño máximo fijo para que no sean demasiado grandes */
-            width: 100%; /* Se adapta al contenedor, pero no excede 600px */
-            height: auto; /* Mantiene la proporción */
+            max-width: 600px; 
+            width: 100%; 
+            height: auto; 
             border-radius: 5px;
             margin: 10px 0;
-            display: block; /* Evita espacios no deseados debajo de la imagen */
-            margin-left: auto; /* Centra la imagen horizontalmente */
+            display: block; 
+            margin-left: auto; 
             margin-right: auto;
         }
         blockquote {
